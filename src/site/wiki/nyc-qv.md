@@ -107,3 +107,12 @@ The voting page utilized a graphical interface adapted from [RxC QV](https://qua
 ![Submissions warning message](/images/wiki/harlem-submit-confirmation.png)
 
 When users clicked the "submit" button, the page displayed this warning message to inform users when they had voice credits left over before saving their votes.
+
+
+FURTHER READING
+
+Eli Zeger, <a href="https://www.radicalxchange.org/media/blog/public-matching-funds-in-new-york-city-from-the-electorate-to-the-everyday/">"Public Matching Funds in New York City: From the Electorate to the Everyday"</a>, <em>RadicalxChange Foundation</em>, September 1, 2021.
+
+Eli Zeger, <a href="https://www.noemamag.com/how-to-make-voting-more-truly-representative/">"How To Make Voting More Truly Representative"</a>, <em>Noema Magazine</em>, January 6, 2022.
+
+Eli Zeger, <a href="https://zine.zora.co/budgeting-for-all">"Appetite for Redistribution: Budgeting for All"</a>, <em>Zora Zine</em>, October 7, 2022.
